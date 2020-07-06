@@ -6,7 +6,7 @@ WORKING_DIR="/media/Storage/Backups"
 
 BACKUP_MYSQL="true"
 MYSQL_USER="root"
-MYSQL_PASSWORD="466874"
+MYSQL_PASSWORD="xxxxxx"
 
 DOMAINS_FOLDER="/var/www"
 #ATOM="/usr/shar/nginx"
